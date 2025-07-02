@@ -20,5 +20,5 @@ B-CPE-200_op/.idea/
 build/
 .vscode/
 B-CPE-200_corewar_binaries/
-B-CPE-200_corewar_champions/
+simple_test_champions/
 bashtest/
